@@ -1,5 +1,6 @@
 # Agência de Viagens - Projeto do Curso da Devmedia
 
+<img src= imagem.png alt=imagem/>
 
 Bem-vindo(a) ao projeto da Agência de Viagens! Este é um projeto desenvolvido como parte do curso da Devmedia. Aqui estão as instruções para executar o projeto localmente e para acessar o site implantado.
 
