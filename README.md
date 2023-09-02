@@ -8,7 +8,6 @@ Bem-vindo(a) ao projeto da Agência de Viagens! Este é um projeto desenvolvido 
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
-- [Node.js](https://nodejs.org/) - Utilizado para executar scripts e dependências do projeto.
 - [Visual Studio Code](https://code.visualstudio.com/) - O ambiente de desenvolvimento recomendado para este projeto.
 
 ## Passos para Executar o Projeto 
